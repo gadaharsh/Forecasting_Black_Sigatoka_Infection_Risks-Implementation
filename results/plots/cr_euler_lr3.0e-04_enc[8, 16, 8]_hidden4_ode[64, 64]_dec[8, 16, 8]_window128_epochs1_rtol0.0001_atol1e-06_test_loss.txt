@@ -1,0 +1,2 @@
+Avg test MLE loss: 775.1789299011231
+Avg test MSE loss: 15.532636356353759

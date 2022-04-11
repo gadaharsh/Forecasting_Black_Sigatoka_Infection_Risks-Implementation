@@ -1,0 +1,8 @@
+Running on CPU
+Training starts
+
+Epoch 00 training loss: 47.6757
+Epoch 00 validation loss: 48.4473
+Saving model at epoch 00
+
+Done
